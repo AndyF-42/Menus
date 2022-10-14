@@ -1,0 +1,3 @@
+Izakaya/Chicken Karaage-7,Chicken Wings-5,Edamame-3,Fried Tofu-4
+Ramen/Shio-10,Shoyu-12,Miso-9,Vegetarian-10,Spicy-11
+Add-ons/Mushrooms-0.50,Corn-0.50,Bamboo-0.50,Egg-1,Extra Protein-3

@@ -1,0 +1,5 @@
+Starters/Chicken Wings-4,Hoy Joh-5,Salad Roll-4,Egg Roll-5
+Curries/Mussaman Curry-14,Yellow Curry-13,Red Curry-13
+Rice and Noodle Dishes/Pad Thai-14,Pad See Ew-13,Pad Kee Mao-15, Holy Basil Fried Rice-13,
+Sides/Jasmine Rice-1,Sticky Rice-2
+Desserts/Mango Sticky Rice-6,Coconut Ice Cream-7
